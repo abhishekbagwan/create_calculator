@@ -1,5 +1,5 @@
 
-# Calculator
+# Calculator Using HTML CSS JAVASCRIPT
 
 This project involves creating a basic calculator using HTML and CSS. The calculator provides a simple user interface to perform basic arithmetic calculations.
 
